@@ -31,7 +31,7 @@ finds the ID of the "Fire type" and verify that the pokemon "charmander" is from
 finds the five heaviest pokemons and their weights, and checks if the result is matching what we expected
 
 ## Running Tests
-To execute the test suite, run the following command:
+run the following command to execute the tests:
 ```bash
 pytest -v
 ```
