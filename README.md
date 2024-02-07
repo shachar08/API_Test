@@ -16,6 +16,8 @@ git clone https://github.com/shachar08/API_Test
 ### 2. Install dependencies:
 ```bash
 pip install requests
+```
+```bash
 pip install pytest
 ```
 
