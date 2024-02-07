@@ -9,7 +9,9 @@ This repository contains test functions written in Python (using pytest framewor
 
 ## Installation
 ### 1. Clone the repository:
+```bash
 git clone https://github.com/shachar08/API_Test
+```
 
 ### 2. Install dependencies:
 ```bash
